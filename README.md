@@ -9,6 +9,7 @@
 - Hot-reload
 - Support for [sass](http://sass-lang.com/)
 - Support for environment-specific configuration files
+- Using the [art-template](https://github.com/aui/art-template) template engine
 
 ## Usage
 ```bash
