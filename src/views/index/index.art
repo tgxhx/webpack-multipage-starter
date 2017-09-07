@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<% include('../../components/title/title.art', {
+title: title
+}) %>
+<body>
+  {{include '../../components/header/header.art'}}
+  <div id="navbar-toolbar-html"></div>
+  <p><img src="{{require('img/octocat.png')}}" alt="octocat"></p>
+  <p>This is just an awesome page.</p>
+  {{include '../../components/footer/footer.art'}}
+</body>
+</html>
