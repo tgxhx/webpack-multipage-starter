@@ -1,8 +1,8 @@
-#Webpack multipage starter template
+# Webpack multipage starter template
 
 > The aim of this repository is to provide a template for developing multi-page applications, it was modified based on [vue-cli](https://github.com/vuejs/vue-cli).
 
-##Features
+## Features
 - Multiple pages
 - Compiles ES6 (with [Babel](https://babeljs.io/))
 - Build with webpack2
@@ -10,7 +10,7 @@
 - Support for [sass](http://sass-lang.com/)
 - Support for environment-specific configuration files
 
-##Usage
+## Usage
 ```bash
 #Download the files
 git clone git@github.com:tgxhx/webpack-multipage-starter.git
